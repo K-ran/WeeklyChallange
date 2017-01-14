@@ -1,0 +1,1 @@
+Fits a straight line through the given dataset and also show the lease square error.  
